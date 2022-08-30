@@ -1,0 +1,9 @@
+*{
+  padding:0;
+  margin: 0;
+  font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    /* overflow-x: hidden;    */
+}
+body::-webkit-scrollbar {
+  display: none;
+}

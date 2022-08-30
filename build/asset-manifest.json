@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5830b1ad.css",
+    "main.js": "/static/js/main.e5bb7f09.js",
+    "static/js/787.0530f370.chunk.js": "/static/js/787.0530f370.chunk.js",
+    "static/media/video2.webm": "/static/media/video2.65ec9e3e7a46b211b107.webm",
+    "static/media/video1.webm": "/static/media/video1.99a24f182bb746f259e9.webm",
+    "static/media/sec3.mp4": "/static/media/sec3.513f2c8fc741abd2e4e7.mp4",
+    "static/media/video2-mp4.mp4": "/static/media/video2-mp4.e32a4871b909739a0baf.mp4",
+    "static/media/video1-mp4.mp4": "/static/media/video1-mp4.a15866bfd8bff06fa345.mp4",
+    "static/media/video3.webm": "/static/media/video3.9fa3500d1b4ca93bd6a2.webm",
+    "static/media/video3-mp4.mp4": "/static/media/video3-mp4.2e006437cac0b4861f70.mp4",
+    "static/media/headerVdo.webm": "/static/media/headerVdo.a33fd284bfa2e2c9bf93.webm",
+    "static/media/headerVdo1.mp4": "/static/media/headerVdo1.dd4e390820fa7db89fc7.mp4",
+    "static/media/REA-GROUP.png": "/static/media/REA-GROUP.dbfaa4ccbe514917b44a.png",
+    "static/media/logo.png": "/static/media/logo.ddb639c943867aaa9594.png",
+    "static/media/ibm.png": "/static/media/ibm.8dce07a1c64c2dc904ff.png",
+    "static/media/RMIT.png": "/static/media/RMIT.b1bb5321ae57861b5985.png",
+    "static/media/Deliveroo.png": "/static/media/Deliveroo.abcab6a8292364675702.png",
+    "static/media/card4.jpg": "/static/media/card4.42b5dc988c1777a0cf46.jpg",
+    "static/media/card3.jpg": "/static/media/card3.253027c1db27e4715d5f.jpg",
+    "static/media/seek-logo.png": "/static/media/seek-logo.293489214c99de027ccd.png",
+    "static/media/card1.png": "/static/media/card1.cbba08ee00784bcf3f80.png",
+    "index.html": "/index.html",
+    "main.5830b1ad.css.map": "/static/css/main.5830b1ad.css.map",
+    "main.e5bb7f09.js.map": "/static/js/main.e5bb7f09.js.map",
+    "787.0530f370.chunk.js.map": "/static/js/787.0530f370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5830b1ad.css",
+    "static/js/main.e5bb7f09.js"
+  ]
+}
